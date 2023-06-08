@@ -3,4 +3,4 @@ format: jb-book
 root: readme
 chapters:
 - file: overview/overview
-- file: installation guide/installation guide
+- file: chapter
