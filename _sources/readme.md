@@ -6,4 +6,4 @@ uses population projections to run resstock for simulations of potential future 
 \***_Warning_**\*: As of June 2023 this library is in beta and is not appropriate for production use.
 
 ## Inputs
-...Inputs...
+Check out [inputs](inputs/inputs.md) section
